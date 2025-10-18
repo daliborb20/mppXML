@@ -33,3 +33,5 @@ Način podešavanja je sledeći
 <img width="1054" height="628" alt="image" src="https://github.com/user-attachments/assets/1206d78e-d3cb-4c48-a0e3-084db5120012" />
 
 <img width="468" height="304" alt="image" src="https://github.com/user-attachments/assets/f9b05a32-511e-4697-b9a2-89c31b389461" />
+
+<img width="1378" height="289" alt="image" src="https://github.com/user-attachments/assets/e61da020-1c49-43c4-b0ac-22686caa62a2" />
