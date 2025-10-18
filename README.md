@@ -19,7 +19,7 @@ Način podešavanja je sledeći
 4. Kliknuti na dugme TEST KONEKCIJE, program će prikazati poruku o izvršenoj konekciji (slika 2)
 
 ### RAD SA PROGRAMOM
-1. Spremti XLSX fajl u kojem su evidentirane poslovne promene
+1. Spremti XLSX fajl u kojem su evidentirane poslovne promene. Excel fajl mora biti preuzet u delu
 
 ### 
 
