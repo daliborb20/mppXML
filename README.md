@@ -20,10 +20,16 @@ Način podešavanja je sledeći
 
 ### RAD SA PROGRAMOM
 1. Spremti XLSX fajl u kojem su evidentirane poslovne promene. Nacrt Excel fajla mora biti preuzet sa ovog sajta  -  template_knjizenje_sa_kontom.xlsx (slika 3)
-2. 
+2. U delu programa ULAZNI XLSX, učitati xlsx fajl (slika 4)
+3. Ukoliko je program ispravno učitao xlsx fajl, isit će biti prikazan u delu PREGLED XLSX (prvih 20 redova) (slika 5)
+
 
 ### 
 
 <img width="1395" height="1027" alt="image" src="https://github.com/user-attachments/assets/aeb34677-b81f-4dc4-977f-523f3e54e9e8" />
 
 <img width="594" height="271" alt="image" src="https://github.com/user-attachments/assets/2395b877-00ca-42db-a4c6-7d77a05d3000" />
+
+<img width="1054" height="628" alt="image" src="https://github.com/user-attachments/assets/1206d78e-d3cb-4c48-a0e3-084db5120012" />
+
+<img width="468" height="304" alt="image" src="https://github.com/user-attachments/assets/f9b05a32-511e-4697-b9a2-89c31b389461" />
