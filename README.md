@@ -26,7 +26,13 @@ Način podešavanja je sledeći
 
 ### UVOZ XML U MPP
 1. Generiran XML fajl se učitava u delu programa UVOZ I IZVOZ/DOKUMENTI/UVOZ DOKUMENATA (slika 7)
-2. 
+2. U čarobnjaku kliknuti na dugme SLEDEĆE (slika 8)
+3. U delu IZBOR ŽELJENOG UVOZA, izabrati NALOG ZA KNJIŽENJE (slika 9)
+4. Izabrati putanju do XML fajla (slika 10)
+5. Ukoliko prilikom uvoza MPP prijavi da se šifre preduzeća ne poklapaju, nastaviti sa uvozom
+6. Selektovati fajl (slika 11), i kliknuti na sledeće dok MPP ne učita fajl
+7. Proveriti učitan nalog za knjiženje
+
 
 ### 
 
@@ -43,5 +49,17 @@ Način podešavanja je sledeći
 <img width="1370" height="216" alt="image" src="https://github.com/user-attachments/assets/f6b8345b-9113-48f4-b9c4-5342e95e4848" />
 
 <img width="524" height="276" alt="image" src="https://github.com/user-attachments/assets/da71f6de-5439-4df7-bec0-eb477bcb0054" />
+
+<img width="741" height="555" alt="image" src="https://github.com/user-attachments/assets/e67e061f-bddb-42c1-aeef-f82be4934f72" />
+
+<img width="792" height="564" alt="image" src="https://github.com/user-attachments/assets/6dbe008b-ebd7-45da-af21-b3f43bfb46bd" />
+
+<img width="730" height="549" alt="image" src="https://github.com/user-attachments/assets/8ea642d3-bdd2-4ca4-9495-a02e074fa3c4" />
+
+<img width="1257" height="308" alt="image" src="https://github.com/user-attachments/assets/b5f45721-e884-494f-8eaa-d42585b4bb9a" />
+
+<img width="985" height="739" alt="image" src="https://github.com/user-attachments/assets/02235aef-a507-4e0e-821d-7165e0ed98ad" />
+
+
 
 
