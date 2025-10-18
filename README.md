@@ -1,7 +1,7 @@
 # CONVERTOR XLSX U XML
 
 
-#### PROGRAM OMOGUĆAVA PRETVARANJE XLSX FAJLA U XLM FAJL KOJI JE MOGUĆE UČITATATI U PSIT MPP2
+#### PROGRAM OMOGUĆAVA PRETVARANJE XLSX FAJLA U XML FAJL KOJI JE MOGUĆE UČITATATI U PSIT MPP2
 
 ### PREDUSLOVI
 1. Instaliran 64-bitni Python programski jezik, link za preuzimanje: https://www.python.org/downloads/windows/
@@ -22,7 +22,11 @@ Način podešavanja je sledeći
 1. Spremti XLSX fajl u kojem su evidentirane poslovne promene. Nacrt Excel fajla mora biti preuzet sa ovog sajta  -  template_knjizenje_sa_kontom.xlsx (slika 3)
 2. U delu programa ULAZNI XLSX, učitati xlsx fajl (slika 4)
 3. Ukoliko je program ispravno učitao xlsx fajl, isit će biti prikazan u delu PREGLED XLSX (prvih 20 redova) (slika 5)
+4. U delu IZLAZ I GENERISANJE, kliknuti na dugme SAČUVAJ KAO, sačuvati XML, a zatim klknuti na dugme GENERIŠI XML (slika 6)
 
+### UVOZ XML U MPP
+1. Generiran XML fajl se učitava u delu programa UVOZ I IZVOZ/DOKUMENTI/UVOZ DOKUMENATA (slika 7)
+2. 
 
 ### 
 
@@ -35,3 +39,9 @@ Način podešavanja je sledeći
 <img width="468" height="304" alt="image" src="https://github.com/user-attachments/assets/f9b05a32-511e-4697-b9a2-89c31b389461" />
 
 <img width="1378" height="289" alt="image" src="https://github.com/user-attachments/assets/e61da020-1c49-43c4-b0ac-22686caa62a2" />
+
+<img width="1370" height="216" alt="image" src="https://github.com/user-attachments/assets/f6b8345b-9113-48f4-b9c4-5342e95e4848" />
+
+<img width="524" height="276" alt="image" src="https://github.com/user-attachments/assets/da71f6de-5439-4df7-bec0-eb477bcb0054" />
+
+
