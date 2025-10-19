@@ -1,4 +1,0 @@
-Uspešno obavljen uvoz izabranih dokumenata u bazu podataka!
-
-Broj uvezenih dokumenata: 1
-Broj neuvezenih dokumenata: 0
