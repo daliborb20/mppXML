@@ -11,7 +11,7 @@
 
 
 ### PODEŠAVANJE KONEKCIJE (slika 1)
-Konekciju ka SQL Serveru je neophodno podesiti kako bi program preuzeo podatke o kontnom planu, kao i preduzećima
+Konekciju ka SQL Serveru je neophodno podesiti kako bi program preuzeo podatke o kontnom planu, kao i preduzećima.
 Način podešavanja je sledeći
 1. Otvoriti program za administraciju: MPP 2.4 Administracija
 2. U delu RAD SA BAZOM/PARAMETRI POVEZIVANJA, nalazi se naziv servera
